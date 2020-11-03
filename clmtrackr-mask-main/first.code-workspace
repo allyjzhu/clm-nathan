@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../midtermproj2"
+		},
+		{
+			"path": "../../Desktop/sprite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5517,
+		"liveServer.settings.multiRootWorkspaceName": "midtermproj2"
+	}
+}
